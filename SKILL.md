@@ -5,11 +5,6 @@ description: |
   适用于技术深度文章、工具实战复盘、FAQ/Q&A、方法论、公众号长文等。
   触发词:写文章、写公众号、写博客、帮我写篇稿、按我的风格写、技术长文写作。
   不适用于:X/Twitter 短帖(用 baoyu-post-to-x)、小红书(用 baoyu-xhs-images)。
-version: 1.0.0
-metadata:
-  openclaw:
-    homepage: https://github.com/Gracker/technical-writing
----
 
 # 技术文章写作
 
