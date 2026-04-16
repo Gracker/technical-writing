@@ -1,11 +1,7 @@
 ---
 name: technical-writing
-description: |
-  技术文章写作 skill。
-  适用于技术深度文章、工具实战复盘、FAQ/Q&A、方法论、公众号长文等。
-  触发词:写文章、写公众号、写博客、帮我写篇稿、按我的风格写、技术长文写作。
-  不适用于:X/Twitter 短帖(用 baoyu-post-to-x)、小红书(用 baoyu-xhs-images)。
-
+description: 技术文章写作 skill。适用于技术深度文章、工具实战复盘、FAQ/Q&A、方法论、公众号长文等。触发词:写文章、写公众号、写博客、帮我写篇稿、按我的风格写、技术长文写作。不适用于:X/Twitter 短帖(用 baoyu-post-to-x)、小红书(用 baoyu-xhs-images)。
+---
 # 技术文章写作
 
 > 面向 Android 性能优化工程师的技术写作 skill。
