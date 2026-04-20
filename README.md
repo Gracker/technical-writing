@@ -1,11 +1,11 @@
-# Technical Writing Skill
+# Gracker Writing Skill
 
 技术文章写作 skill。
 
 ## 安装
 
 ```bash
-npx skills add Gracker/technical-writing --yes --global
+npx skills add Gracker/gracker-writing --yes --global
 ```
 
 ## 触发词
