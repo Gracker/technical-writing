@@ -4,9 +4,13 @@
 
 ## 安装
 
+默认安装仓库当前默认分支，不需要版本号：
+
 ```bash
 npx skills add Gracker/gracker-writing --yes --global
 ```
+
+需要可复现安装时，先发布 Git tag 或 release，再按安装器支持的 tag / commit 语法固定版本；当前命令不写虚构版本号。
 
 ## 触发词
 

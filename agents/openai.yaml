@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gracker Writing"
+  short_description: "Chinese technical long-form writing"
+  default_prompt: "Use $gracker-writing to draft or revise this Chinese technical article."
